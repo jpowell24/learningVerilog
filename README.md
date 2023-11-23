@@ -1,0 +1,2 @@
+# learningVerilog
+just practicin'
